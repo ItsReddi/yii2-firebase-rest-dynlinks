@@ -11,9 +11,14 @@
       "email": "philippreddigau@gmail.com"
     }
   ],
-
+  "repositories": [
+      {
+        "type": "github",
+        "url": "git@github.com:ItsReddi/rest.git"
+      }
+  ],
   "require": {
-    "othercode/rest" : "1.3.1"
+    "othercode/rest" : "dev-master as 1.3.2"
   },
   "autoload": {
     "psr-4": {
