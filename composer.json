@@ -11,14 +11,8 @@
       "email": "philippreddigau@gmail.com"
     }
   ],
-  "repositories": [
-      {
-        "type": "github",
-        "url": "git@github.com:ItsReddi/rest.git"
-      }
-  ],
   "require": {
-    "othercode/rest" : "dev-ItsReddi-patch-1 as v1.3.1"
+    "othercode/rest" : "^v1.5.0"
   },
   "autoload": {
     "psr-4": {
